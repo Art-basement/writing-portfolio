@@ -9,7 +9,7 @@ I specialize in breaking down complex workflows into easy-to-follow steps and ha
 ## 📘 Writing Samples
 The following samples are demonstrations created to showcase my writing ability, as much of my past work is proprietary.
 
-### 1. [General Application Information Guidelines] (https://github.com/Art-basement/writing-portfolio/wiki/Guide-to-'General-Application-Information%22-Knowledge-Articles)
+### 1. [General Application Information Guidelines](https://github.com/Art-basement/writing-portfolio/wiki/Guide-to-'General-Application-Information%22-Knowledge-Articles)
 
 
 ## 🛠 Tools & Skills
