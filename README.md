@@ -1,4 +1,4 @@
-# Jennifer (Jen) Wanner – Technical Writing Portfolio
+# Jennifer (Jen) Wanner – Writing Portfolio
 
 ## 👋 About Me
 
