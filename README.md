@@ -16,6 +16,12 @@ The following samples are demonstrations created to showcase my writing ability,
 * The objective was to help Subject Matter Experts provide information to an internal Help Desk each time a new system or application was being rolled out.
 * Originaly created as a Word document accompanying a template.
 
+#### [Authoring Knowledge Articles: General Troubleshooting Guide](IS-KM-Standard-Article.md)
+* Guide for Subject Matter Experts to create a knowledge article for IS or HR Help Desk audiences
+* The objective was to simplify gathering requirements for new knowledge articles for BMC Remedy and SAP CRM.
+* Orginally created as a Word template.
+
+  
 ### 🧰 Troubleshooting Articles
 
 ### ⏩ Quick Start Guides
