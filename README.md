@@ -22,7 +22,7 @@ The following samples are demonstrations created to showcase my writing ability,
 * Orginally created as a Word template.
 
   
-### 🧰 Troubleshooting Articles
+### 🧰 Informational Articles
 
 ### ⏩ Quick Start Guides
 
