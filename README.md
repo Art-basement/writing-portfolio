@@ -9,6 +9,8 @@ I specialize in breaking down complex workflows into easy-to-follow steps and ha
 ## 📘 Writing Samples
 The following samples are demonstrations created to showcase my writing ability, as much of my past work is proprietary.
 
+***
+
 ### 🦮 Guided Templates
 
 #### [Authoring Knowledge Articles: General Application Information Guidelines](https://github.com/Art-basement/writing-portfolio/blob/main/IS-KM-GenAppInfo.md)
@@ -21,13 +23,19 @@ The following samples are demonstrations created to showcase my writing ability,
 * The objective was to simplify gathering requirements for new knowledge articles for BMC Remedy and SAP CRM.
 * Orginally created as a Word template.
 
+ *** 
   
 ### 🧰 Informational Articles
 
+***
+
 ### ⏩ Quick Start Guides
+
+***
 
 ### 🥘 Recipes
 
+***
 
 
 ## 🛠 Tools & Skills
