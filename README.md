@@ -11,7 +11,7 @@ The following samples are demonstrations created to showcase my writing ability,
 
 ### 🦮 Guided Templates
 
-#### [Authoring Knowledge Articles: General Application Information Guidelines](https://github.com/Art-basement/writing-portfolio/wiki/Guide-to-'General-Application-Information%22-Knowledge-Articles)  
+#### [Authoring Knowledge Articles: General Application Information Guidelines](https://github.com/Art-basement/writing-portfolio/blob/main/IS-KM-GenAppInfo.md)
 * Guide for Subject Matter Experts to create a "General Application Information" knowledge article.
 * The objective was to help Subject Matter Experts provide information to an internal Help Desk each time a new system or application was being rolled out.
 * Originaly created as a Word document accompanying a template.
