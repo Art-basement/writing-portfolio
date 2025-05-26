@@ -6,17 +6,23 @@ I'm a technical writer with experience creating knowledge base articles, how-to 
 
 I specialize in breaking down complex workflows into easy-to-follow steps and have a strong focus on clarity, consistency, and usability.
 
-## 📘 Technical Writing Samples
+## 📘 Writing Samples
 The following samples are demonstrations created to showcase my writing ability, as much of my past work is proprietary.
 
-### 1. [Authoring Knowledge Articles: General Application Information Guidelines](https://github.com/Art-basement/writing-portfolio/wiki/Guide-to-'General-Application-Information%22-Knowledge-Articles)  
+### 🦮 Guided Templates
+
+#### [Authoring Knowledge Articles: General Application Information Guidelines](https://github.com/Art-basement/writing-portfolio/wiki/Guide-to-'General-Application-Information%22-Knowledge-Articles)  
 * Guide for Subject Matter Experts to create a "General Application Information" knowledge article.
 * The objective was to help Subject Matter Experts provide information to an internal Help Desk each time a new system or application was being rolled out.
 * Originaly created as a Word document accompanying a template.
 
-## ✍️ Other Writing Samples
+### 🧰 Troubleshooting Articles
 
-### 1.
+### ⏩ Quick Start Guides
+
+### 🥘 Recipes
+
+
 
 ## 🛠 Tools & Skills
 Markdown · HTML · Snagit · Tango · Notepad++ · WordPress
