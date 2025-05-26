@@ -29,7 +29,9 @@ The following samples are demonstrations created to showcase my writing ability,
 
 ***
 
-### ⏩ Quick Start Guides
+### ✔️ Checklists
+
+#### [Beach Week: Packing Checklist](CkList-beach_week.md)
 
 ***
 
@@ -39,7 +41,7 @@ The following samples are demonstrations created to showcase my writing ability,
 
 
 ## 🛠 Tools & Skills
-Markdown · HTML · Snagit · Tango · Notepad++ · WordPress
+Markdown · HTML · CSS · Tango · Notepad++ · WordPress
 
 ## 📫 Contact
 🔗 [My LinkedIn Profile](https://www.linkedin.com/in/jennifer-a-wanner/)
