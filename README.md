@@ -13,15 +13,15 @@ The following samples are demonstrations created to showcase my writing ability,
 
 ### 🦮 Guided Templates
 
-#### [Authoring Knowledge Articles: General Application Information Guidelines](https://github.com/Art-basement/writing-portfolio/blob/main/IS-KM-GenAppInfo.md)
-* Guide for Subject Matter Experts to create a "General Application Information" knowledge article.
-* The objective was to help Subject Matter Experts provide information to an internal Help Desk each time a new system or application was being rolled out.
-* Originaly created as a Word document accompanying a template.
++ [Authoring Knowledge Articles: General Application Information Guidelines](https://github.com/Art-basement/writing-portfolio/blob/main/IS-KM-GenAppInfo.md)
+  * Guide for Subject Matter Experts to create a "General Application Information" knowledge article.
+  * The objective was to help Subject Matter Experts provide information to an internal Help Desk each time a new system or application was being rolled out.
+  * Originaly created as a Word document accompanying a template.
 
-#### [Authoring Knowledge Articles: General Troubleshooting Guide](IS-KM-Standard-Article.md)
-* Guide for Subject Matter Experts to create a knowledge article for IS or HR Help Desk audiences
-* The objective was to simplify gathering requirements for new knowledge articles for BMC Remedy and SAP CRM.
-* Orginally created as a Word template.
++ [Authoring Knowledge Articles: General Troubleshooting Guide](IS-KM-Standard-Article.md)
+  * Guide for Subject Matter Experts to create a knowledge article for IS or HR Help Desk audiences
+  * The objective was to simplify gathering requirements for new knowledge articles for BMC Remedy and SAP CRM.
+  * Orginally created as a Word template.
 
  *** 
   
@@ -31,11 +31,13 @@ The following samples are demonstrations created to showcase my writing ability,
 
 ### ✔️ Checklists
 
-#### [Beach Week: Packing Checklist](CkList-beach_week.md)
++ [Beach Week: Packing Checklist](CkList-beach_week.md)
 
 ***
 
 ### 🥘 Recipes
+
++ [Best Banana Bread](best-banana-bread.md)
 
 ***
 
