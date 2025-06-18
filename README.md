@@ -27,6 +27,9 @@ The following samples are demonstrations created to showcase my writing ability,
   
 ### 🧰 Informational Articles
 
++ [Attempting to Connect Without Corporate Broadband Equipment](broadband-rollout.md) -2003
+
+  
 ***
 
 ### ✔️ Checklists
